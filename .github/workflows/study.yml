@@ -2,7 +2,7 @@ name: Do a Duolingo lesson
 
 on:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "30 10 * * *"
 
 jobs:
   study:
